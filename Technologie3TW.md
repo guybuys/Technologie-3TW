@@ -70,7 +70,18 @@ const uint32_t smile_frame[] = {
 ## Les 3 
 _17 september_
 
-- Test over de les van 10 september. 
-- ...
+Test over de les van 10 september. 
+
+## Les 4
+_24 september_
+
+Taak: maak een frame met uw initialen en een animatie
+
+## Les 5
+_1 oktober_
+
+Deze les laden we de animatie en de frame met initialen uit de taak van vorige week in onze Arduino.
+**Let op:** in 3TWb moeten de code in de IDE nog naar het Arduino bordje opgeladen worden. Zorg dat alles hiervoor klaar is, anders verlies je punten... 
+
 
 **_Wordt vervolgd..._***
