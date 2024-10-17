@@ -83,7 +83,7 @@ _1 oktober_
 Deze les laden we de animatie en de frame met initialen uit de taak van vorige week in onze Arduino.
 **Let op:** in 3TWb moeten de code in de IDE nog naar het Arduino bordje opgeladen worden. Zorg dat alles hiervoor klaar is, anders verlies je punten... 
 
-_8 oktober-
+_8 oktober_
 Geen les wegens klassenraden
 
 ## Les 6 
