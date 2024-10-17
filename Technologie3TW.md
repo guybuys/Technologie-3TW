@@ -75,7 +75,7 @@ Test over de les van 10 september.
 ## Les 4
 _24 september_
 
-Taak: maak een frame met uw initialen en een animatie
+Taak (wegens uitstap naar WoTS beurs met 3e graad): maak een frame met uw initialen en een animatie 
 
 ## Les 5
 _1 oktober_
@@ -83,5 +83,14 @@ _1 oktober_
 Deze les laden we de animatie en de frame met initialen uit de taak van vorige week in onze Arduino.
 **Let op:** in 3TWb moeten de code in de IDE nog naar het Arduino bordje opgeladen worden. Zorg dat alles hiervoor klaar is, anders verlies je punten... 
 
+_8 oktober-
+Geen les wegens klassenraden
+
+## Les 6 
+_15 oktober_
+
+3TWa: Principe van PWM
+
+3TWb: Deze les laden we de animatie en de frame met initialen uit de taak van vorige maand in onze Arduino.
 
 **_Wordt vervolgd..._***
