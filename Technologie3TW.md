@@ -12,6 +12,27 @@ _3 september_
 - Het basisprogramma in **C++** (text) overlopen
 - De functie van de code blokken **setup()** en **loop()** besproken
 
+**Basisprogramma**
+```C++
+// C++ code
+//
+void setup()
+{
+  // Met pinMode kunnen we een Arduino pin in een bepaalde mode zetten. Standaard staan alle pinnen als INPUT
+  // Met INPUT kan je lezen of een pin aangesloten is aan een hoge (HIGH) of lage (LOW) spanning
+  // Met OUTPUT kan je de pint op een hoge (HIGH) of lage (LOW) spanning zetten om zo bijvoorbeeld een LED te doen branden.
+  pinMode(LED_BUILTIN, OUTPUT);     // Hier zetten we de pin LED_BUILTIN (pin 13) als OUTPUT
+  // Dit kan ook zo geschreven worden: pinMode(13, OUTPUT);
+}
+
+void loop()
+{
+  digitalWrite(LED_BUILTIN, HIGH); // Deze instructie zet de pin (hier LED_BUILTIN = pin 13) hoog, waardoor de LED gaat branden
+  delay(1000); // Wacht 1000 milliseconden
+  digitalWrite(LED_BUILTIN, LOW); // Deze instructie zet de pin (hier LED_BUILTIN = pin 13) laag, waardoor de LED uit gaat
+  delay(1000); // Wacht 1000 milliseconden
+}
+```
 ## Les 2 
 _10 september_
 
@@ -75,7 +96,7 @@ Test over de les van 10 september.
 ## Les 4
 _24 september_
 
-Taak (wegens uitstap naar WoTS beurs met 3e graad): maak een frame met uw initialen en een animatie 
+Taak: maak een frame met uw initialen en een animatie
 
 ## Les 5
 _1 oktober_
@@ -83,14 +104,19 @@ _1 oktober_
 Deze les laden we de animatie en de frame met initialen uit de taak van vorige week in onze Arduino.
 **Let op:** in 3TWb moeten de code in de IDE nog naar het Arduino bordje opgeladen worden. Zorg dat alles hiervoor klaar is, anders verlies je punten... 
 
-_8 oktober_
-Geen les wegens klassenraden
-
 ## Les 6 
 _15 oktober_
 
 3TWa: Principe van PWM
 
 3TWb: Deze les laden we de animatie en de frame met initialen uit de taak van vorige maand in onze Arduino.
+
+## Les 7 
+_22 oktober_
+
+3TWa: Principe van PWM: met analogWrite een LED harder of zachter laten branden
+
+3TWb: Taak Looplicht (zie LES1 voor een herhaling van de geziene instructies)
+
 
 **_Wordt vervolgd..._***
