@@ -20,7 +20,7 @@ void setup()
 {
   // Met pinMode kunnen we een Arduino pin in een bepaalde mode zetten. Standaard staan alle pinnen als INPUT
   // Met INPUT kan je lezen of een pin aangesloten is aan een hoge (HIGH) of lage (LOW) spanning
-  // Met OUTPUT kan je de pint op een hoge (HIGH) of lage (LOW) spanning zetten om zo bijvoorbeeld een LED te doen branden.
+  // Met OUTPUT kan je de pin op een hoge (HIGH) of lage (LOW) spanning zetten om zo bijvoorbeeld een LED te doen branden.
   pinMode(LED_BUILTIN, OUTPUT);     // Hier zetten we de pin LED_BUILTIN (pin 13) als OUTPUT
   // Dit kan ook zo geschreven worden: pinMode(13, OUTPUT);
 }
