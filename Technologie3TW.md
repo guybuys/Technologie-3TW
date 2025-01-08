@@ -20,7 +20,7 @@ void setup()
 {
   // Met pinMode kunnen we een Arduino pin in een bepaalde mode zetten. Standaard staan alle pinnen als INPUT
   // Met INPUT kan je lezen of een pin aangesloten is aan een hoge (HIGH) of lage (LOW) spanning
-  // Met OUTPUT kan je de pin op een hoge (HIGH) of lage (LOW) spanning zetten om zo bijvoorbeeld een LED te doen branden.
+  // Met OUTPUT kan je de pint op een hoge (HIGH) of lage (LOW) spanning zetten om zo bijvoorbeeld een LED te doen branden.
   pinMode(LED_BUILTIN, OUTPUT);     // Hier zetten we de pin LED_BUILTIN (pin 13) als OUTPUT
   // Dit kan ook zo geschreven worden: pinMode(13, OUTPUT);
 }
@@ -118,5 +118,26 @@ _22 oktober_
 
 3TWb: Taak Looplicht (zie LES1 voor een herhaling van de geziene instructies)
 
+## Les 8
+_5 November_
+Verderzetting AnalogWrite en PWM
+## Les 9
+_12 November_
+Herhaling analogWrite en PWM
 
+## Les 10
+_19 November_
+Drukknop schakelaar aan de ingang. Pull-up weerstand en hoe werkt dit elektrisch?
+
+## Les 11
+_26 November_
+Herhaling elektriciteit: drukknop schakelaar aan de ingang
+
+## Les 12
+_3 December
+Herhaling elektriciteit: drukknop schakelaar aan de ingang en pull-up weerstand
+
+## Les 13
+_7 Januari_
+Herhaling van het eerste trimester
 **_Wordt vervolgd..._***
