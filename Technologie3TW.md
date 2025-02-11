@@ -140,4 +140,29 @@ Herhaling elektriciteit: drukknop schakelaar aan de ingang en pull-up weerstand
 ## Les 13
 _7 Januari_
 Herhaling van het eerste trimester
+
+## Les 14
+_14 Januari_
+Schema's lezen en bouwen
+
+## Les 15
+_21 Januari_
+Engineering: museumbeveiliging
+
+_28 Januari_
+Geen les, pedagogische studiedag
+
+## Les 16
+_4 Febuari_
+Herhaling van het eerste trimester
+
+## Les 17
+_11 Febuari_
+Printen in Arduino:
+- Serial.begin()
+- Baudrate
+- Serial.println()
+- Serial.print()
+- "tekst afprinten"
+- variabelen
 **_Wordt vervolgd..._***
