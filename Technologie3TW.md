@@ -154,7 +154,8 @@ Geen les, pedagogische studiedag
 
 ## Les 16
 _4 Febuari_
-Herhaling van het eerste trimester
+Servomotoren aansturen in Arduino
+Servo.h
 
 ## Les 17
 _11 Febuari_
